@@ -1,0 +1,6 @@
+name: BlockRegen
+version: '${project.version}'
+main: me.hdcookie.plugin.blockregen.BlockRegen
+api-version: 1.18
+authors: [ HDcookie ]
+description: A simple plugin I made that will regenerate blocks broken in specific worlds

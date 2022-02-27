@@ -1,0 +1,5 @@
+#Time before it regenerates, in ticks
+time: 20
+
+#Allowed worlds
+world: 'resource'
